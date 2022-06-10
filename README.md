@@ -9,7 +9,7 @@ The task is to prompt user of program with options. They are asked for their acc
 
 Links
 GitHub repository - https://github.com/Anu-Saini/password_generator.git
-Website  -  
+Website  -  https://anu-saini.github.io/password_Generator/Index.html
 
 Snapshots for program
 // The opening page of program
