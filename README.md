@@ -13,13 +13,13 @@ Website  -  https://anu-saini.github.io/password_Generator/Index.html
 
 Snapshots for program
 // The opening page of program
-1. image.png
+1. password_Generator/Images/Image Layout.jpg"
 
 // on pressing Generate password, the webpage will prompt with the questions
-2. image.png
-3. image.png
-4. image.png
-5. image.png
+2. password_Generator/Images/password length.jpg"
+3. password_Generator/Images/password alphabet case.jpg"
+4. password_Generator/Images/password number.jpg"
+5. password_Generator/Images/password splcharacter.jpg"
 
 // on establising creteria for the password characters, the webpage will generate a unique password for the user.
-6. image.png
+6. password_Generator/Images/Unique password generation.jpg"
